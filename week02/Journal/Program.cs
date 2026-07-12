@@ -1,3 +1,5 @@
+//I utilized encapsulation. Parts of the program are private so that they are untouched. Only what needs outside access is marked public.
+
 using System;
 
 class Program
